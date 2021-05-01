@@ -1,9 +1,9 @@
 # my-projects
 
-## Calming Signal 🐕 (21.03.10 ~ )
+## Calming Signal 🐕 (21.03.10 ~ 04.30 )
 반려견 몸짓 언어에 대한 정보 제공 웹 서비스
 
-( 📎 [노션](https://www.notion.so/Calming-Signal-4ec7da92adeb4be69c7047f129831ae1) | [깃헙](https://github.com/MinWooPark-dotcom/calming-signal-server) )
+( 📎 [배포](https://calming-signal.ml/) | [노션](https://www.notion.so/Calming-Signal-4ec7da92adeb4be69c7047f129831ae1) | [깃헙](https://github.com/MinWooPark-dotcom/calming-signal-server) )
 
 
 ## Slow TV 📺 (21.01.07 ~ 21.02.02)
